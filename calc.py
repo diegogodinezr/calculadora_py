@@ -37,6 +37,11 @@ while True:
         print("¡Hasta luego!")
         break
 
+    # Validar si la opción ingresada es un número del 1 al 4
+    if opcion not in ['1', '2', '3', '4']:
+        print("Error: Ingresa un número válido del menú (1 a 5).")
+        continue
+
     try:
         num1 = float(input("Ingresa el primer número: "))
         num2 = float(input("Ingresa el segundo número: "))
