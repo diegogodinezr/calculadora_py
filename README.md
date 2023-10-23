@@ -5,3 +5,6 @@ Este proyecto es una calculadora básica en Python que permite realizar operacio
 ## Requisitos
 ## Intrucciones de instalacion y configuracion
 ## Intrucciones de ejecucion
+La calculadora mostrará un menú interactivo que te permitirá seleccionar la operación que deseas realizar. Sigue las instrucciones en la terminal para ingresar los números necesarios y obtener el resultado de la operación.
+
+Para salir de la calculadora, selecciona la opción "5" en el menú.
